@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**TanmayTG/TanmayTG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+# TOOLS & TECHNOLOGIES
+</div>
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,react,redux,nodejs,express,mongodb,react-native)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+# ABOUT ME
+</div>
+
+Hello 👋, I'm Tanmay, a dedicated react-native developer with strong expertise in React Native, I am passionate about crafting seamless and user-centric app experiences. 
+Since 2021, I have been gaining hands-on experience in MERN Stack development by learning from various resources and developing custom projects according to industrial standards, with a particular focus on software development. I have always been intrigued by open-source contributions and have enabled myself to contribute beyond the constraints.
+
+
+Crafting ideas into app-based realities is my forte, which enables me to possess the following skills:
+- **Programming Languages:** JavaScript
+- **Front-End:** HTML, CSS, Bootstrap, React.js, Redux, React Native
+- **Back-End:** Node.js, Express.js, MongoDB and REST APIs
+- **Tools:** Postman
+
+I embrace change and readily adapt to new technologies, frameworks, and methodologies, ensuring that my skills are always up-to-date and aligned with industry trends.
+
+<div align="center">
+  
+# HOLOPIN BADGES
+</div>
+
+[![An image of @vikasparmar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vikasparmar)](https://holopin.io/@vikasparmar)
