@@ -22,10 +22,3 @@ Crafting ideas into app-based realities is my forte, which enables me to possess
 - **Tools:** Postman
 
 I embrace change and readily adapt to new technologies, frameworks, and methodologies, ensuring that my skills are always up-to-date and aligned with industry trends.
-
-<div align="center">
-  
-# HOLOPIN BADGES
-</div>
-
-[![An image of @vikasparmar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vikasparmar)](https://holopin.io/@vikasparmar)
